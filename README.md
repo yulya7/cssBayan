@@ -1,4 +1,4 @@
 # cssBayan
 
 
-https://yulya7.github.io/cssBayan/
+https://yulya7.github.io/cssBayan/cssBayan/
