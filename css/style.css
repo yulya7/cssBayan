@@ -36,6 +36,7 @@ border: 1px solid blue;
     display: block;
 }
 
-.accordion-item__trigger:after {
+.accordion-item__trigger::before {
     content:'+';
+    float: right;
 }
